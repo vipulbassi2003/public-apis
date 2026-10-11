@@ -38,6 +38,7 @@ APILayer is the fastest way to integrate APIs into any product. Explore [APILaye
 Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) to get updates, ask questions, get answers, random community calls, and more.
 
 <br >
+This repository helps developers discover APIs for different use cases.
 
 ## APILayer APIs
 | API | Description | Call this API |
